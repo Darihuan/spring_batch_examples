@@ -1,4 +1,4 @@
-package com.example.chunk_example_batch.content.order.application.readers;
+package com.example.chunk_example_batch.content.order.application.mappers;
 
 import com.example.chunk_example_batch.content.order.domain.Order;
 import org.springframework.batch.item.file.mapping.FieldSetMapper;
